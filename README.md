@@ -1,5 +1,12 @@
+![Analyst @ Cognizant](https://media.licdn.com/dms/image/D4D16AQFJKKolpAOwWw/profile-displaybackgroundimage-shrink_350_1400/0/1673204190006?e=1678924800&v=beta&t=ynn8FFNG_DEszcp7yCBvvYaquhiHGSCo9_kgyBccer4)
+
 # 💫 About Me:
-🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.<br>👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.<br>🌱 I’m currently learning Machine Learning and Python.<br>💬 Ask me about SQL<br>⚡ Fun fact - I love to pay attention to details :)
+
+🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.
+👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
+🌱 I’m currently learning Machine Learning and Python.
+💬 Ask me about SQL
+⚡ Fun fact - I love to pay attention to details :)
 
 
 ## 🌐 Socials:
