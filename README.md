@@ -2,10 +2,10 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.
-👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
-🌱 I’m currently learning Machine Learning and Python.
-💬 Ask me about SQL
+🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools. <br>
+👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects. <br>
+🌱 I’m currently learning Machine Learning and Python. <br>
+💬 Ask me about SQL. <br>
 ⚡ Fun fact - I love to pay attention to details :)
 
 
