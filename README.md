@@ -1,5 +1,3 @@
-![Analyst @ Cognizant](https://media.licdn.com/dms/image/D4D16AQFJKKolpAOwWw/profile-displaybackgroundimage-shrink_350_1400/0/1673204190006?e=1678924800&v=beta&t=ynn8FFNG_DEszcp7yCBvvYaquhiHGSCo9_kgyBccer4)
-
 
 # 💫 About Me:
 
